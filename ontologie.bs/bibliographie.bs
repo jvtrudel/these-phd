@@ -1,0 +1,9 @@
+bibliographie; liste de de références
+
+référence
+  .auteur
+  .journal
+  .page
+  .
+
+citation

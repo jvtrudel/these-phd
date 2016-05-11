@@ -1,1 +1,95 @@
-chapitre: 
+---
+type: chapitre
+titre: "Théorie de l'interaction molécules/laser"
+description: >
+   Décrit les formalismes utilisés pour décrire l'interaction entre molécules et
+   champ laser. Avantages et limitation de chaque approche. Revue de la
+   littérature. Méthodes numériques. Lien avec l'expérience.
+
+plan:
+  - >
+    Historique et généralités (mais pas trop)
+  - >
+    Quantification du champ
+  - >
+    Équations de Heaviside-Maxwell
+  - >
+    TDSE + Maxwell
+  - >
+    Approximation dipolaire
+  - >
+    Approximation adiabatique (Born-Oppenheimer et Franck-Condon)
+  - >
+    Champ statique et déformation des orbitales dipolaire
+  - >
+    Symétrie et interaction champ/molécules
+
+resume: >
+  Brève mise en contexte de la contribution du domaine de la physique optique
+  à la fois à la science fondamentale et au progrès technologique (intrication
+  de la science fondamentale et du progrès technologique).
+
+  Description des formalismes d'interactions lumière/matière. On commence par le
+  plus compliqué pour finir par le plus simple.
+
+  O(n termie avec quelques approches plus comp,.
+
+sections:
+  -
+    titre: >
+      Brève historique du lien entre technologies optiques, sciences fondamentales
+      et nouvelles applications
+    paragraphes:
+      - >
+        La mécanique quantique a été découverte grâce aux avancés eninteraction
+        lumière/matière.
+      - >
+        Pareillement, les champ intenses ont stimulé la découvertes de mécanismes
+         fondamentaux et améliorer notre compréhension de la matière.
+      - >
+        Exemples d'applications nouvelles: enchevêtrement quantique, filamentation,
+        laser diffus, ordinateurs optiques...
+        Non seulement puissance, mais également encoder et traiter l'information.
+        Aussi, étude des propriétés fines de la matière grâce à l'accès
+        à une résolution temporelles. Modification des propriétés de la matière, contrôle.
+    bibliographie:
+  -
+    titre: >
+      Notions fondamentales
+    -
+      Équations de Maxwell
+    -
+      TDSE
+    -
+      ...
+  -
+    titre: >
+       Méthodologies de traitement de l'intéreaction électron / photons
+    sousSections:
+      -
+        titre: >
+          Quantification photon + électron
+        description: >
+          Approche la plus exacte. Décrire les limitations et les difficultés.
+          Exemple d'application et quels informations cette approche nous permet
+          d'obtenir qui n'est pas accèssible par d'autres méthodes.
+        bibliographie:
+          - Cohen-Tannoudji, photons
+      -
+        titre: >
+          TDSE + Maxwell
+        description: >
+          Description 'complète' des propriétés du champ.
+          Quel est la différence avec la quantification du champ.
+          Exemple d'applications (propagation d'impulsions ou de filaments dans un média)
+          Difficultés numériques.
+          Dans quelles conditions ce n'est pas nécessaire et dans quelles
+          situations on 'perd' de l'information.
+      -
+        titre: >
+          Approximation dipolaire
+
+      -
+  -
+    titre: >
+      -

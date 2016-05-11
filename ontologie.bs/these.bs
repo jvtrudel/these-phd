@@ -1,0 +1,18 @@
+these#hiérachique
+  .partie
+    .chapitre
+      .section
+        .sous-section
+          .paragraphe
+            .phrase
+              .mot
+                .caractère
+
+these#libérale
+  .partie
+  .chapitre
+  .annexe
+  .section
+  .sous-section
+  .paragraphe
+  .phrase
