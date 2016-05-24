@@ -1,0 +1,54 @@
+---
+auteurs:
+  - Juliang Xu
+  - Cosmin I Blaga
+  - Pierre Agostini
+  - Louis F DiMauro
+doi: 10.1068/0953-4075/49/11/112001
+titre: Time-Resolved Molecular Imaging
+
+keywords:
+  - strong-field physisc
+  - femtosecond intense laser pulses
+  - ultrafast science
+  - electron and x-ray diffraction
+  - x-ray free electron lasers
+  - time resolved molecular imaging
+
+parts: [abstract, introduction, staticimaging, ]
+abstract:
+  concepts:
+    - TR-MI: time-resolved molecular imaging
+    - ultrafast optical science
+    - physical chemistry
+    - techniques for ultrafast imaging of molecular dynamics
+    - femtosecond laser
+    - free electron x-ray lasers
+    - molecular dynamics
+    - attosecond time domain
+  enonces:
+    -a;sl
+
+introduction:
+   - lkj
+
+staticimaging:
+  - 2.1
+    - diffraction methods
+      - lumière
+        - x-ray
+      - particules
+        - électrons
+        - neutron
+    - STM, scanning tunneling microscope
+    - fragments
+      - spectre d'énergie cinétechniques
+      - spectres de masse
+      - CEI, coulomb explosion imaging
+  - 2.2
+    - conventional electron difraction, CED
+    - synchrotron-radiation-based x-ray diffraction
+    - x-ray crystallography
+    enonces:
+      - diffraction électroniques et par rayons-X (diffEX) sont les principales sondes expérimentales pour sonder la structure de la matière
+      - 
