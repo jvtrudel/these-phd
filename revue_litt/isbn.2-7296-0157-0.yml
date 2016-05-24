@@ -1,0 +1,15 @@
+  auteurs:
+    - Claude Cohen-Tannoudji
+    - Jacques Dupont-Roc
+    - Gilbert Grynberg
+  titre: >
+    Processus d'interaction entre photons et atomes
+
+  Chapitre1:
+    commentaires:
+      - Amplitudes de probabilités
+      - transition d'un état initial à un état final
+      - multiplication des amplitudes de probabilités
+      - phénomènes d'interférences
+      - caractérisation des états initiaux et finaux: il faut pouvoir déterminer les états propres
+      - le propagateur passe par la diagonalisation de l'hamiltonien

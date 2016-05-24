@@ -3,7 +3,17 @@
   doi: 10.1103/PhysRevLett.114.255501
   journal: PhysRevLett
 -
-  doi:
--
   doi: 10.1088/0953-4075/49/6/062001
   tag: JPhysB.49.062001
+-
+  isbn: 0-387-95274-8
+  titre: "Atom Optics"
+  auteur: Pierre Meystre
+-
+  isbn: 2-7296-0157-0
+  auteurs:
+    - Claude Cohen-Tannoudji
+    - Jacques Dupont-Roc
+    - Gilbert Grynberg
+  titre: >
+    Processus d'interaction entre photons et atomes

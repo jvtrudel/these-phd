@@ -1,0 +1,62 @@
+titre: "Atom Optics"
+auteur: Pierre Meystre
+
+
+chapter1:
+  titre: Light Forces on Atoms
+
+  sections:
+    enum: 1.1
+    titre: Two-Level Atoms
+    equations:
+      -
+        description: Hamiltonien décrivant l'interaction entre un atome et un champ électromagnétique
+        latex: >
+          H = H_A + H_F + H_{AF}
+        structure: >
+          a=b1+b2+b3
+        details:
+          a:
+            symbole: H
+            definition: Hamiltonien décrivant l'interaction entre un atome et un champ électromagnétiqueHamiltonien décrivant l'interaction entre un atome et un champ électromagnétique
+          b1:
+            symbole: H_A
+            definition:
+              Hamiltonien atomique
+          b2:
+            symbole: H_F
+            definition: Hamiltonien du champ
+          b3:
+            symbole: H_{AF}
+            definition: Hamiltonien d'interaction
+
+      -
+        description: hamiltonien du champ
+        latex: >
+           H_F=\sum_\mu \hbar \omega_\mu
+        structure:
+          a= sum b c d e
+        substitutions:
+          a: H_F
+          sum: \sum_\mu
+          b: \hbar
+          c: \omega_\mu
+          d: \hat a_\mu^\dagger
+          e: \hat a_\mu
+      -
+        definition: Mode du champ
+        structure: a = (b,c)
+        substitutions:
+          a: \mu
+          b: k
+          c: \epsilon
+        definitions:
+          a: Mode su champ
+          b: wave vector
+          c: polarization
+      -
+        definition: relation de commutation des modes
+        structure: a=[b,c]
+      -
+        definition: interaction dipolaire:  modes/atomes
+         

@@ -1,0 +1,8 @@
+structure:
+  sommation:
+    forme: a=b1+b2+b3+...+bn
+  colsedSum:
+    forme: a=\sum_i^n bi
+  commutation:
+    forme: [b1,b2]=a
+  
